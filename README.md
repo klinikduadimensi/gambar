@@ -1,1 +1,1 @@
-CBT-GAMBAR
+cbt-gambar
